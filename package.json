@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bruce965/ejsc",
   "dependencies": {
-    "ejs": "^2.3.4"
+    "ejs": "^2.5.9"
   }
 }
